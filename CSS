@@ -1,1 +1,47 @@
+h1{
+  color:#123962;
+  font-size:_;
+  font-family: monospace
+}
+h2{
+  color:#123962;
+  font-size:_;
+}
 
+b{
+  color:#123962;
+  font-size:_;}
+Img{
+  border-radius:5px}
+strong{
+  color:#123962;
+  font-size:__;
+}
+Body{
+  background-image url(https://i.pinimg.com/736x/d7/08/6f/d7086fdbe00807deb7c101717602f2da.jpg);
+}
+
+h2{
+  font-family: arial
+}
+p{
+font-weight: 100;
+  font-family: monospace
+}
+.menu{
+  font-weight: 600;
+  text-align:center;
+  color:#123962
+}
+.others{
+  text-align:right;
+}
+
+.footer{
+  font-weight: 600;
+  color:#76130F;
+}
+td{
+font-weight: 100;
+  font-family: monospace
+}
